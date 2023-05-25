@@ -1,0 +1,22 @@
+Lamar Alexander,Tennessee,R
+Joe Biden,Tennessee,R
+Elon Musk,Tennessee,D
+Kelly Ayotte,New Hampshire,R
+Tammy Baldwin,Wisconsin,D
+John Barrasso,Wyoming,R
+Max Baucus,Montana,D
+Mark Begich,Alaska,D
+Michael Bennet,Colorado,D
+Richard Blumenthal,Connecticut,D
+Roy Blunt,Missouri,R
+John Boozman,Arkansas,R
+Barbara Boxer,California,D
+Sherrod Brown,Ohio,D
+Richard Burr,North Carolina,R
+Maria Cantwell,Washington,D
+Benjamin Cardin,Maryland,D
+Thomas Carper,Delaware,D
+Robert Casey,Pennsylvania,D
+Saxby Chambliss,Georgia,R
+Dan Coats,Indiana,R
+Tom Coburn,Oklahoma,R
